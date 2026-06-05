@@ -1,4 +1,4 @@
-🇧🇷 Português
+🇧🇷 Português:
 Sobre o Projeto
 Este repositório contém meu portfólio pessoal — uma página web desenvolvida inteiramente com HTML5 e CSS3, sem frameworks ou bibliotecas externas. O objetivo é apresentar minha trajetória como estudante de tecnologia, minhas habilidades atuais, minha formação acadêmica e os projetos que desenvolvo ao longo do curso.
 O design foi pensado para ser moderno, responsivo e mobile first, garantindo uma boa experiência tanto em celulares quanto em desktops.
@@ -38,7 +38,7 @@ xdg-open index.html # Linux
 ✅ Disponível para oportunidades de estágio
 
 
-🇺🇸 English
+🇺🇸 English:
 About the Project
 This repository contains my personal portfolio — a web page built entirely with HTML5 and CSS3, without any frameworks or external libraries. The goal is to present my journey as a technology student, my current skills, academic background, and the projects I develop throughout my course.
 The design was crafted to be modern, responsive, and mobile first, ensuring a great experience on both mobile devices and desktops.
